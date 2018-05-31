@@ -12,6 +12,7 @@ Esse manual é genérico, pode usar para criar um Marginall para baixo ou para g
  - fios de ligar alto-falantes
  - 1 tomada com fio
  - 1 fonte 12 fontes, de no mínimo 30 amperes
+ - 3 cabos "Y" RCA, geralmente vêm 2 junto com o módulo
  
  Se você não for ligar os canais diretamente nos alto-falantes para poder mudá-los:
  
@@ -39,6 +40,33 @@ Sempre leia o manual dos módulos para usar as configurações corretas, na hora
 Eu prefiro o módulo da Versão Dois porque as conexões são mais simples. No módulo da Versão Um tem um "rabicho", aqueles plugs cheios de fios.
 
 Claro, se você já tiver um módulo ou ganhar um de alguém, veja como são os canais e depois compre os alto-falantes.
+
+## Instalando os alto-falantes
+
+<img src=https://c2.staticflickr.com/2/1748/28608571838_1ec4730c4f_z.jpg>
+
+Em ambos os Marginall ligamos os alto-falando em dupla.
+A foto é do Marginall Versão Dois - Flex, dois alto-falantes de baixo (ligados com o fio branco), e dois alto-falantes de guitarra (ligados com o fio preto-vermelho). Ligamos o positivo (+) dos falantes juntos, e os negativos (-) juntos.
+
+## Ligando os alto-falantes diretamente no módulo
+
+Em um módulo de 4 canais que possue modo "bridged", podemos ligar forma:
+
+ - 4 canais separados, total 4 canais
+ - 2 canais separados e 2 em modo bridged, total 3 canais
+ - 2 canais canais em bridged e 2 canais em bridged, total 2 canais 
+
+<img src=https://c2.staticflickr.com/2/1741/28608545458_a344d7b39e_c.jpg>
+
+Nessa foto estamos utilizando os canais 3 e 4 separadamente, podemos fazer o mesmo para os canais 1 e 2.
+
+<img src=https://c2.staticflickr.com/2/1752/28608545438_90248b7eef_z.jpg>
+
+Nessa foto estamos utilizando os canais 1 e 2 em modo "bridged", podemos fazer o mesmo para os canais 3 e 4.
+
+Essa é a ligação do Versão Dois - Flex, 2 canais de 100 Watts e 1 canal em "bridged" de 320 Watts.
+
+
 
 
 
