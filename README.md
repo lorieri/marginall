@@ -3,10 +3,10 @@
 ## Marginall Amplifier
 
 Marginall is a low cost guitar and bass amplifier used in concerts and rehearsals.
-Check the history behind the project: https://medium.com/@leolorieri/bandas-underground-mais-watts-por-menos-grana-ecbaea003667
+Check the history behind the project: [https://medium.com/@leolorieri/bandas-underground-mais-watts-por-menos-grana-ecbaea003667]
 
 Marginall é um amplificador de guitarra ou baixo de baixo custo para shows e ensaios.
-Veja a história do projeto: https://medium.com/@leolorieri/bandas-underground-mais-watts-por-menos-grana-ecbaea003667
+Veja a história do projeto: [https://medium.com/@leolorieri/bandas-underground-mais-watts-por-menos-grana-ecbaea003667]
 
 ## How to
 
