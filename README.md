@@ -1,4 +1,4 @@
-<img src=https://cdn-images-1.medium.com/max/1600/1*zKaZ_KS7rOBgx786eZqCwA.jpeg>
+<img src="https://cdn-images-1.medium.com/max/1600/1*zKaZ_KS7rOBgx786eZqCwA.jpeg">
 
 ## Marginall Amplifier
 
