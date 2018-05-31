@@ -133,6 +133,37 @@ Para isso é utilizado um cabo P10 macho x RCA macho. Ou algum adaptador. Na fot
 
 <img src=https://c2.staticflickr.com/2/1724/27610211517_054257cd1d_z.jpg>
 
+A ligação no módulo tem que ser igual a da saída para os alto-falantes. Isso pode ser feito utilizando cada canal separadamente ou com os cabos RCA em "Y":
+
+<img src=https://c2.staticflickr.com/2/1741/28608597168_8d7bc74f95_z.jpg>
+
+No Marginall Versão Um temos que ligar o pedal em todos os canais, pq utilizamos somente uma guitarra para os 4 alto-falantes.
+A forma mais simples é utilizando 3 cabos RCA em "Y", um para cada dois canais, depois 1 ligando esses dois cabos Y no pedal.
+
+Detalhe dos canais de entrada:
+
 <img src=https://c2.staticflickr.com/2/1750/41578482505_4d2d51e4b4_c.jpg>
 
+No Marginall Versão Dois - Flex existem outras possibilidades
 
+Ligando em um canal só, na foto o canal 3:
+
+<img src=https://c2.staticflickr.com/2/1733/28608601948_c77a66ab66.jpg>
+
+Ligando em dois canais utilizando o cabo RCA em "Y":
+
+<img src=https://c2.staticflickr.com/2/1742/28608605538_db0d424602.jpg>
+
+Para utiliza um canal em modo "bridged" é preciso ligar o pedal nas duas entradas que formal o canal, como na foto abaixo, o canal 1 e 2. Para isso também utilizamos um cabo RCA em "Y":
+
+<img src=https://c2.staticflickr.com/2/1746/28608609618_bf2f67a82c.jpg>
+
+Para ligar um instrumento só utilizando ao mesmo tempo o canal 1 e 2 em bridge e o canal 3, utilizamos dois cabos RCA em "Y":
+
+<img src=https://c1.staticflickr.com/1/897/28608612678_92d5172995.jpg>
+
+Veja como fica uma ligação completa de um pedal no canal 3 de 100 Watts e no canal 4 de 100 Watts, utilizando os 4 alto-falantes:
+
+<img src=https://c2.staticflickr.com/2/1739/40672888030_507ab3bd54_z.jpg>
+
+Para tocar em dois instrumentos ao mesmo tempo, uma guitarra e um baixo, é só usar 2 pedais.
