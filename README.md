@@ -10,7 +10,7 @@ Veja a história do projeto: [aqui](https://medium.com/@leolorieri/bandas-underg
 
 ## How to
 
-[How to build a Marginall](https://github.com/lorieri/marginall/edit/master/how-to-en.md).
+[How to build a Marginall](how-to-en.md).
 
-[Como montar um Marginall](https://github.com/lorieri/marginall/edit/master/how-to-pt.md).
+[Como montar um Marginall](how-to-pt.md).
 
