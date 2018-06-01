@@ -50,7 +50,7 @@ I preffer the Version Two - Flex car system amplifier. Its connections are simpl
 
 And of course, if somebody gives you a car system amplifier or you already have one, check its channels and buy the speakers based on them.
 
-## Speakers installation
+### Speakers installation
 
 <img src="https://c2.staticflickr.com/2/1748/28608571838_1ec4730c4f_z.jpg">
 
@@ -58,7 +58,7 @@ In both Marginalls I wired the speakers in pairs.
 
 The photo above is from the Marginall Version Two - Flex, a pair of bass guitar speakers (white wire), and a pair of guitar speakers (black-red wire). I connected the speakers' positive pole (+) together, and the same for the negative (-). It is a parallel connection.
 
-## Connecting the speakers direct to the output channels
+### Connecting the speakers direct to the output channels
 
 In a four channels car system amplifier that can make "bridged" channels, we can use them as below:
 
@@ -83,7 +83,7 @@ Amplifier details:
 <img src="https://c2.staticflickr.com/2/1760/28608545258_12ba5371f8_c.jpg">
 
 
-## Connecting the speakers using a "switch"
+### Connecting the speakers using a "switch"
 
 In the Marginall Version Two - Flex, I build a "swithc" to exchange channels between the pairs of spekaers.
 
@@ -139,7 +139,7 @@ See the amplifier output channels at left and the amplifier power-supply connect
 
 <img src="https://c2.staticflickr.com/2/1740/27610214777_8a5f635693_z.jpg">
 
-## Connecting the pedal (pre-amplifier)
+### Connecting the pedal (pre-amplifier)
 
 Always turn down the pedal volume.
 
