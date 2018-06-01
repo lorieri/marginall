@@ -182,3 +182,5 @@ Veja como fica uma ligação completa de um pedal no canal 3 de 100 Watts e no c
 <img src="https://c2.staticflickr.com/2/1739/40672888030_507ab3bd54_z.jpg">
 
 Para tocar com dois instrumentos ao mesmo tempo, uma guitarra e um baixo, é só usar 2 pedais.
+
+Se você montar um, nos diga, mande fotos, [é só abrir uma "issue" aqui no projeto](https://github.com/lorieri/marginall/issues/new).
