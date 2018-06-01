@@ -1,6 +1,6 @@
 ## How to build a Marginall
 
-**ATENTION: YOU MUST KNOW HOW TO HANDLE ELECTRICITY, THIS PROJECT CAN GIVES FATAL ELETRIC CHOCKS**
+**ATTENTION: YOU MUST KNOW HOW TO HANDLE ELECTRICITY, THIS PROJECT CAN GIVES FATAL ELETRIC CHOCKS**
 
 This is a generic manual, can be used to create both any size of guitar and bass guitar Marginall.
 
@@ -170,17 +170,16 @@ Using two channels, with a "Y" RCA cable:
 
 <img src="https://c2.staticflickr.com/2/1742/28608605538_db0d424602.jpg">
 
-And to 
-Para utiliza um canal em modo "bridged" é preciso ligar o pedal nas duas entradas que formam o canal "bridged", como na foto abaixo, o canal 1 e 2. Para isso também utilizamos um cabo RCA em "Y":
+And to use a "bridged" channel, you must use the two input channels that compose them. As in the photo below, the channels 1 and 2. For this, a "Y" RCA cable is necessary:
 
 <img src="https://c2.staticflickr.com/2/1746/28608609618_bf2f67a82c.jpg">
 
-Para ligar um instrumento só utilizando ao mesmo tempo o canal 1 e 2 em bridge e o canal 3, utilizamos dois cabos RCA em "Y":
+To play one instrument, using one channel (channel 3) and a "bridged" channel (channel 1 and 2), two "Y" RCA cables are necessary:
 
 <img src="https://c1.staticflickr.com/1/897/28608612678_92d5172995.jpg">
 
-Veja como fica uma ligação completa de um pedal no canal 3 de 100 Watts e no canal 4 de 100 Watts, utilizando os 4 alto-falantes:
+See how the pedal to amplifier connect looks like, using the 100 Watts channel 3 input and the 100 Watts channel 4 input, using the four speakers:
 
 <img src="https://c2.staticflickr.com/2/1739/40672888030_507ab3bd54_z.jpg">
 
-Para tocar com dois instrumentos ao mesmo tempo, uma guitarra e um baixo, é só usar 2 pedais.
+If you want to use two instruments at the same time, like a guitar and a bass guitar, just get another pedal.
