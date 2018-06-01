@@ -42,7 +42,7 @@ Another recomendation is to use guitar and bass guitar speakers, not regular woo
 
 In the Marginall Version One, I choose four 150 Watts 8 ohms generic speakers, 2 for each output channel. Wiring 2 speakers in paralell we get 300 Watts and 4 ohms (as seen in the link above). For them I choose [a car system amplifier](http://hurricane.com.br/produto/h-400-4d/) with four 60 Watts and 4 ohms channels, that make two 200 Watts and 4 ohms "bridged" channels.
 
-In the Marginall Version Two - Flex, I choose two 75 Watts and 8 ohms guitar speakers and two 100 Watts and 8 ohms bass guitar speakers. For this I choose [um módulo](http://hurricane.com.br/produto/ha-4-160/), with four 100 Watts and 4 ohms channels, that gives two 320 Watts and 4 ohms "briged" channels.
+In the Marginall Version Two - Flex, I choose two 75 Watts and 8 ohms guitar speakers and two 100 Watts and 8 ohms bass guitar speakers. For this I choose [an amplifier](http://hurricane.com.br/produto/ha-4-160/) with four 100 Watts and 4 ohms channels, that gives two 320 Watts and 4 ohms "briged" channels.
 
 Always read car system amplifier manual, it helps using the correct configurations. Whe buying them, read carefully their specs, specially for the channels.
 
