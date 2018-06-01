@@ -50,7 +50,7 @@ Eu prefiro o módulo da Versão Dois - Flex porque as conexões são mais simple
 
 Claro que, se você já tiver um módulo ou ganhar um de alguém, veja como são os canais e depois compre os alto-falantes.
 
-## Instalando os alto-falantes
+### Instalando os alto-falantes
 
 <img src="https://c2.staticflickr.com/2/1748/28608571838_1ec4730c4f_z.jpg">
 
@@ -58,7 +58,7 @@ Em ambos os Marginalls liguei os alto-falando em dupla.
 
 A foto é do Marginall Versão Dois - Flex, dois alto-falantes de contrabaixo (ligados com o fio branco), e dois alto-falantes de guitarra (ligados com o fio preto-vermelho). Liguei o positivo (+) dos falantes juntos, e os negativos (-) juntos (em paralelo).
 
-## Ligando os alto-falantes diretamente no módulo
+### Ligando os alto-falantes diretamente no módulo
 
 Em um módulo de 4 canais que possue modo "bridged", podemos ligar da seguinte forma:
 
@@ -83,7 +83,7 @@ Detalhe do módulo:
 <img src="https://c2.staticflickr.com/2/1760/28608545258_12ba5371f8_c.jpg">
 
 
-## Ligando os alto-falantes com uma "chave" para escolher os canais
+### Ligando os alto-falantes com uma "chave" para escolher os canais
 
 No Marginal Versão Dois - Flex, criei uma "chave" para poder escolher em qual canal ligar cada dupla de alto-falantes.
 
@@ -115,7 +115,7 @@ Na foto abaixo liguei os alto-falantes de contrabaixo (cabo azul) em um canal de
 
 <img src="https://c2.staticflickr.com/2/1749/28608618888_81e4b14269.jpg">
 
-## Ligando o módulo na fonte
+### Ligando o módulo na fonte
 
 As fontes geralmente têm 9 pinos, nessa sequência: 3 pinos de 12 Volts positivos, 3 pinos negativos, 1 pino para o terra da tomada, um para o neutro da tomada, um para o fase da tomada:
 
@@ -138,7 +138,7 @@ Veja os canais de saída ligados a esquerda, e a ligação da fonte a direita:
 
 <img src="https://c2.staticflickr.com/2/1740/27610214777_8a5f635693_z.jpg">
 
-## Ligando o pedal (pré-amplificador)
+### Ligando o pedal (pré-amplificador)
 
 Sempre deixe o volume do pedal no mínimo.
 
@@ -169,7 +169,7 @@ Ligando em dois canais utilizando o cabo RCA em "Y":
 
 <img src="https://c2.staticflickr.com/2/1742/28608605538_db0d424602.jpg">
 
-Para utiliza um canal em modo "bridged" é preciso ligar o pedal nas duas entradas que formam o canal "bridged", como na foto abaixo, o canal 1 e 2. Para isso também utilizamos um cabo RCA em "Y":
+Para utilizar um canal em modo "bridged" é preciso ligar o pedal nas duas entradas que formam o canal "bridged", como na foto abaixo, o canal 1 e 2. Para isso também utilizamos um cabo RCA em "Y":
 
 <img src="https://c2.staticflickr.com/2/1746/28608609618_bf2f67a82c.jpg">
 
