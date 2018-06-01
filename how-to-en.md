@@ -42,135 +42,135 @@ Another recomendation is to use guitar and bass guitar speakers, not regular woo
 
 In the Marginall Version One, I choose four 150 Watts 8 ohms generic speakers, 2 for each output channel. Wiring 2 speakers in paralell we get 300 Watts and 4 ohms (as seen in the link above). For them I choose [a car system amplifier](http://hurricane.com.br/produto/h-400-4d/) with four 60 Watts and 4 ohms channels, that make two 200 Watts and 4 ohms "bridged" channels.
 
-In the Marginall Version Two - Flex, I choose two 75 Watts and 8 ohms guitar speakers and two 100 Watts and 8 ohms bass guitar speakers. For this I choose [um módulo](http://hurricane.com.br/produto/ha-4-160/)
+In the Marginall Version Two - Flex, I choose two 75 Watts and 8 ohms guitar speakers and two 100 Watts and 8 ohms bass guitar speakers. For this I choose [um módulo](http://hurricane.com.br/produto/ha-4-160/), with four 100 Watts and 4 ohms channels, that gives two 320 Watts and 4 ohms "briged" channels.
 
-No Marginall Versão Dois - Flex utilizei 2 alto-falantes de 75W e 8 ohms de guitarra e 2 alto-falantes de 100 Watts e 8 ohms de contrabaixo. Então escolhi [um módulo](http://hurricane.com.br/produto/ha-4-160/) que tinha 4 canais de 100 Watts e 4 ohms, que ligados em bridge chegavam a 320 Watts e 4 ohms.
+Always read car system amplifier manual, it helps using the correct configurations. Whe buying them, read carefully their specs, specially for the channels.
 
-Sempre leia o manual dos módulos para usar as configurações corretas, na hora de comprar leia atentamente as especificações dos canais.
+I preffer the Version Two - Flex car system amplifier. Its connections are simplier. The Version One's comes with a plug with a lot of wires, hard to configure.
 
-Eu prefiro o módulo da Versão Dois - Flex porque as conexões são mais simples. No módulo da Versão Um tem um "rabicho", aqueles plugs cheios de fios.
+And of course, if somebody gives you a car system amplifier or you already have one, check its channels and buy the speakers based on them.
 
-Claro que, se você já tiver um módulo ou ganhar um de alguém, veja como são os canais e depois compre os alto-falantes.
-
-## Instalando os alto-falantes
+## Speakers installation
 
 <img src="https://c2.staticflickr.com/2/1748/28608571838_1ec4730c4f_z.jpg">
 
-Em ambos os Marginalls liguei os alto-falando em dupla.
+In both Marginalls I wired the speakers in pairs.
 
-A foto é do Marginall Versão Dois - Flex, dois alto-falantes de contrabaixo (ligados com o fio branco), e dois alto-falantes de guitarra (ligados com o fio preto-vermelho). Liguei o positivo (+) dos falantes juntos, e os negativos (-) juntos (em paralelo).
+The photo above is from the Marginall Version Two - Flex, a pair of bass guitar speakers (white wire), and a pair of guitar speakers (black-red wire). I connected the speakers' positive pole (+) together, and the same for the negative (-). It is a parallel connection.
 
-## Ligando os alto-falantes diretamente no módulo
+## Connecting the speakers direct to the output channels
 
-Em um módulo de 4 canais que possue modo "bridged", podemos ligar da seguinte forma:
+In a four channels car system amplifier that can make "bridged" channels, we can use them as below:
 
- - 4 canais separados, total 4 canais
- - 2 canais separados e 2 em modo "bridged", total 3 canais
- - 2 canais em bridged e 2 canais em bridged, total 2 canais 
+ - 4 separated channels, total: 4 channels
+ - 2 separated channels and 2 in "bridged" mode, total: 3 channels
+ - 2 channels in "bridged" mode e 2 channels in "bridged mode", total: 2 channels
 
-Nessa foto utilizamos os canais 3 e 4 separadamente, podemos fazer o mesmo para os canais 1 e 2:
+In this photo we used channel 3 and 4 separated, we can do the same for channels 1 and 2:
 
 <img src="https://c2.staticflickr.com/2/1741/28608545458_a344d7b39e_c.jpg">
 
-Nessa foto utilizamos os canais 1 e 2 em modo "bridged", podemos fazer o mesmo para os canais 3 e 4:
+In this photo we used channels 1 and 2 in "bridged" mode, we can do the same for channels 3 and 4:
 
 <img src="https://c2.staticflickr.com/2/1752/28608545438_90248b7eef_z.jpg">
 
-Essa é a ligação do Versão Dois - Flex, 2 canais de 100 Watts e 1 canal em "bridged" de 320 Watts.
+This is the Version Two - Flex configuration, two 100 Watts channels and a "bridged" 320 Watts channel.
 
-No Marginall Versão Um liguei os alto-falantes diretamente nos canais.
+In the Version One I connected the speakers direct to the amplifier output channels.
 
-Detalhe do módulo:
+Amplifier details:
 
 <img src="https://c2.staticflickr.com/2/1760/28608545258_12ba5371f8_c.jpg">
 
 
-## Ligando os alto-falantes com uma "chave" para escolher os canais
+## Connecting the speakers using a "switch"
 
-No Marginal Versão Dois - Flex, criei uma "chave" para poder escolher em qual canal ligar cada dupla de alto-falantes.
+In the Marginall Version Two - Flex, I build a "swithc" to exchange channels between the pairs of spekaers.
 
-Ao invés de ligar os fios dos alto-falantes diretamente no canal de saída do módulo, coloquei em uma caixinha ligados em 2 jacks p10 fêmeas.
+Instead of connect the speakers wires directly, I put them in a small box using 2 p10 female jacks.
 
 <img src="https://c1.staticflickr.com/1/882/27610218107_10c34b027d_z.jpg">
 
-O fio branco é ligado em um jack, e o fio preto-vermelho é ligado em outro jack.
+The white wire is connected to a jack, and the black-red wire in another jack.
 
-Depois fiz outra caixinha, utilizando uma de tic tac. Olhe a foto da ligação dos alto-falantes. São 3 canais.
+Then I build another box, using a big tic tac cand case. Look at the photo above, it has 3 channels.
 
-Para cada canal liguei os fios em jacks fêmeas P10. Utlizei cabos de pedal para ligar cada dupla de alto-falantes nos canais do módulo.
+For each amplifier output channel, I put a p10 female jack. To connect them to each pair of speakers, I used pedal cables.
 
-A cor dos cabos também ajuda. Sei que o cabo azul é o cabo ligado no fio branco, os alto-falantes de contrabaixo, e o cabo vermelho é ligado nos alto-falantes de guitarra.
+The pedal cable colors helps too. I know the blue cable is connected to white wire of the bass guitar speakers, and the red pedal cable is connected to the black-red wires of the guitar speakers.
 
 <img src="https://c1.staticflickr.com/1/874/27610230927_da3bb72b2b_z.jpg">
 
-Para não me confundir e saber qual canal era qual, coloquei marcações coloridas nos jacks e nos fios que ligam os canais. Na foto acima dá pra ver uma marcação branca, uma marrom e uma laranja no jack.
+To organize the jacks and their output channels, I labeled them with colors. In the photo above you can see white, brown and orange labels in the jacks.
 
-As mesmas marcações estão no fios ligados nos canais, veja a foto abaixo:
+The same labels are in the output channels wires, look below:
 
 <img src="https://c2.staticflickr.com/2/1721/27610227627_964870acc8_z.jpg">
 
-Na foto abaixo liguei os alto-falantes de contrabaixo (cabo azul) em um canal de 100 Watts, e os alto-falantes de guitarra (cabo vermelho) em outro canal de 100 Watts:
+In the photo below you can see the bass guitar speakers (blue cable) are connected to the 100 Watts channel, and the guitar speakers (red cable) are connected in the other 100 Watts channel.
 
 <img src="https://c2.staticflickr.com/2/1734/28608616028_8ff6212747.jpg">
 
-Na foto abaixo liguei os alto-falantes de contrabaixo (cabo azul) em um canal de 320 Watts em "bridged", e os alto-falantes de guitarra em um canal de 100 Watts:
+In the photo below, you can see the bass guitar speakers (blue cable) in the 320 Watts "bridged" channel, and the guitar speakers in a 100 Watts channel.
 
 <img src="https://c2.staticflickr.com/2/1749/28608618888_81e4b14269.jpg">
 
-## Ligando o módulo na fonte
+## Connecting the power-supply
 
-As fontes geralmente têm 9 pinos, nessa sequência: 3 pinos de 12 Volts positivos, 3 pinos negativos, 1 pino para o terra da tomada, um para o neutro da tomada, um para o fase da tomada:
+The power-supply usually comes with 9 pins, in this sequence: three positive 12 volts pins, 3 negative, 1 ground pin to the wall plug, 1 neutral pin, 1 hot pin:
 
 <img src="https://c1.staticflickr.com/1/885/41578513405_3913184d33_z.jpg">
 
-A ligação do módulo é assim:
+The amplifier power connection is this:
 
 <img src="https://c1.staticflickr.com/1/877/41578483565_ebd3ef71f9_z.jpg">
 
-Ligação do módulo na fonte:
- - 12 volts do módulo em um pino de 12 volts positivo da fonte
- - REM do módulo em um pino de 12 volts positivo da fonte
- - GND, que significa terra, em um pino 12 volts negativo da fonte
+To connect the amplifier in the power supply:
+ - amplifiers' 12 volts in a 12 volts positive pin
+ - amplifiers' REM in a 12 volts positive pin
+ - amplifiers' GND in a 12 volts negative pin
  
-E ligamos a tomada assim:
- - Um fio dos fios da tomada no Neutro, penúltimo pino na foto da esquerda pra direita
- - Um fio dos fios da tomada na Fase, último pino na foto da esquerda pra direita
+And them the power-supply to the wall plug like this (note: it works for Brazil, make sure you understand you country's standard):
+ - A wall plug wire in the Neutral pin
+ - A wall plug wire in the Hot pin
+In most countries, the Neutral and Hot wire order matters, and it is crucial to plug the Ground pin correctly to avoid accidents.
 
-Veja os canais de saída ligados a esquerda, e a ligação da fonte a direita:
+See the amplifier output channels at left and the amplifier power-supply connection at right:
 
 <img src="https://c2.staticflickr.com/2/1740/27610214777_8a5f635693_z.jpg">
 
-## Ligando o pedal (pré-amplificador)
+## Connecting the pedal (pre-amplifier)
 
-Sempre deixe o volume do pedal no mínimo.
+Always turn down the pedal volume.
 
-Para o som chegar no amplificador é só ligar a saída do pedal nos canais de entrada do módulo, o canal de entrada 1 corresponde ao canal de saída 1, e assim sucessivamente.
+The the sound reach the amplifier you only need to connect the pedal output to a amplifier input. The input channel 1 corresponds to the output channel 1, and so on.
 
-Para isso é utilizado um cabo P10 macho x RCA macho. Ou algum adaptador. Na foto temos um cabo RCA com um adaptador P10:
+You can use a p10 male x RCA male cable, or any kind of adpater. In the photo below we have a RCA cable with a P10 adapter:
 
 <img src="https://c2.staticflickr.com/2/1724/27610211517_054257cd1d_z.jpg">
 
-A ligação no módulo tem que ser igual a da saída para os alto-falantes. Isso pode ser feito utilizando cada canal separadamente ou com os cabos RCA em "Y":
+The input connection must be the same as the outpout to the speakers. You can use separated input channels or you a "Y" RCA cable.
 
 <img src="https://c2.staticflickr.com/2/1741/28608597168_8d7bc74f95_z.jpg">
 
-No Marginall Versão Um ligamos o pedal em todos os canais, pq utilizamos somente uma guitarra para os 4 alto-falantes.
-A forma mais simples é utilizando 3 cabos RCA em "Y", um para cada dois canais, depois 1 ligando esses dois cabos Y no pedal.
+In the Marginall Version One, we connected the pedal output in all channels. One guitar to all speakers.
+An easy way to do so is use three "Y" RCA cables. One for each 2 channels, and another to connect them together to the pedal output.
 
-Detalhe dos canais de entrada:
+Input channels detail:
 
 <img src="https://c2.staticflickr.com/2/1750/41578482505_4d2d51e4b4_c.jpg">
 
-No Marginall Versão Dois - Flex existem outras possibilidades
+In the Marginall Version Two - Flex, there other possibilies.
 
-Ligando em um canal só, na foto o canal 3:
+Using one channels, in this case the channel 3:
 
 <img src="https://c2.staticflickr.com/2/1733/28608601948_c77a66ab66.jpg">
 
-Ligando em dois canais utilizando o cabo RCA em "Y":
+Using two channels, with a "Y" RCA cable:
 
 <img src="https://c2.staticflickr.com/2/1742/28608605538_db0d424602.jpg">
 
+And to 
 Para utiliza um canal em modo "bridged" é preciso ligar o pedal nas duas entradas que formam o canal "bridged", como na foto abaixo, o canal 1 e 2. Para isso também utilizamos um cabo RCA em "Y":
 
 <img src="https://c2.staticflickr.com/2/1746/28608609618_bf2f67a82c.jpg">
