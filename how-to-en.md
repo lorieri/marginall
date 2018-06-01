@@ -183,3 +183,6 @@ See how the pedal to amplifier connect looks like, using the 100 Watts channel 3
 <img src="https://c2.staticflickr.com/2/1739/40672888030_507ab3bd54_z.jpg">
 
 If you want to use two instruments at the same time, like a guitar and a bass guitar, just get another pedal.
+
+If you build one, tell us, send pictures, [open an issue in the project](https://github.com/lorieri/marginall/issues/new).
+
